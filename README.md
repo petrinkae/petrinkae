@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @petrinkae
 - 👀 I’m interested in DATA VIS & JOURNALISM
 - 🌱 I’m currently learning MORE JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on... who knows
 - 📫 Reach me at petrinkae@pm.me
 
 <!---
